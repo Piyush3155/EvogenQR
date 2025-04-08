@@ -12,7 +12,7 @@ export default function QRRangePage() {
       const codes = [];
 
       for (let i = 11; i <= 21; i++) {
-        const url = `https://example.com/page${i}`;
+        const url = `https://evogen-qr.vercel.app/page${i}`;
         const qrDataURL = await QRCode.toDataURL(url);
         codes.push({ id: i, url, qrDataURL });
       }
