@@ -14,7 +14,7 @@ const Page = () => {
   BRAHMA&apos;S DEVSCRIPT
 </h1>
 
-        <h1 className="text-4xl md:text-6xl font-extrabold text-amber-600 mb-4">QR Code 14</h1>
+        <h1 className="text-4xl md:text-6xl font-extrabold text-amber-600 mb-4">QR Code 37</h1>
         <p className="text-sm md:text-lg text-gray-700 mb-6">
           Access the debugging file from the specified file path below.
         </p>
